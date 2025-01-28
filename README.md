@@ -23,5 +23,5 @@
 ---
 
 ## Pinned Projects:
-- ✨ **[SyntaxBreakers Platform](https://github.com/MessiSensei/SyntaxBreakers)**: *(private now )*
+- ✨ **[SyntaxBreakers Platform](https://github.com/MessiSensei/SyntaxBreakers)**: *(private for now )*
 
