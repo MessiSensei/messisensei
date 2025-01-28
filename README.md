@@ -8,7 +8,7 @@
 - Robotics projects and simulations in Unity3D.
 ---
 ## 📫 How to Reach Me:
-- 🌐 Website: [MessiSensei.com](https://messisensei.com)
+- 🌐 Website: [MessiSensei.com](https://www.messisensei.com)
 ---
 ## ⚡ Fun Fact:
 - I’m passionate about blending **AI, robotics, and education** to create impactful solutions! 🎓🤖
