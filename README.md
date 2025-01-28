@@ -2,18 +2,16 @@
 
 ## 🔭 What I’m Currently Working On:
 - [SyntaxBreakers](https://syntaxbreakeres.com): A platform that bridges technology and innovation. 🚀
-
+---
 ## 👯 Looking to Collaborate On:
 - AI/ML projects involving real-time communication and NLP.
 - Robotics projects and simulations in Unity3D.
-
+---
 ## 📫 How to Reach Me:
 - 🌐 Website: [MessiSensei.com](https://messisensei.com)
-
+---
 ## ⚡ Fun Fact:
 - I’m passionate about blending **AI, robotics, and education** to create impactful solutions! 🎓🤖
-
----
 
 ---
 
