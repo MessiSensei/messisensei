@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
 ## 🔭 What I’m Currently Working On:
-- [SyntaxBreakers](https://syntaxbreakeres.com): A platform that bridges technology and innovation. 🚀
+- [SyntaxBreakers](https://syntaxbreakers.com): A platform that bridges technology and innovation. 🚀
 ---
 ## 👯 Looking to Collaborate On:
 - AI/ML projects involving real-time communication and NLP.
