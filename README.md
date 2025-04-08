@@ -10,7 +10,7 @@
 ##  How to Reach Me:
 -  Website: [MessiSensei.com](https://www.messisensei.com)
 ---
-## ⚡ Fun Fact:
+## Fun Fact:
 - I’m passionate about blending **AI, robotics, and education** to create impactful solutions! 
 
 ---
