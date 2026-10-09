@@ -1,25 +1,49 @@
-# Hi there!  Welcome to my GitHub Profile
+ # Hi, I'm Meisam 👋
 
-##  What I’m Currently Working On:
-- [SyntaxBreakers](https://syntaxbreakers.com): A platform that bridges technology and innovation. 
----
-##  Looking to Collaborate On:
-- AI/ML projects involving real-time communication and NLP.
-- Robotics projects and simulations in Unity3D.
----
-##  How to Reach Me:
--  Website: [MessiSensei.com](https://www.messisensei.com)
----
-## Fun Fact:
-- I’m passionate about blending **AI, robotics, and education** to create impactful solutions! 
+  Associate Professor in Norway, working on **game development, virtual and extended reality (VR/XR), 
+  brain-computer interfaces and generative AI**. I'm part of the **XRai** (Extended Reality and Artificial
+  Intelligence) research group, and I build software for the people I teach.
 
----
+  ## 🛠️  What I'm building
 
-## GitHub Stats:
-![MessiSensei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessiSensei&show_icons=true&theme=radical)
+  **[SyntaxBreakers](https://meisamtaheri.com)**: a university platform for courses, attendance, assessment and
+  campus community, used every day by students and teachers.
 
----
+  - Courses, assignments, an exam and quiz system, a gradebook and SpeedGrader
+  - QR attendance, live Kahoot-style quizzes and real-time lecture feedback
+  - Course chat, direct messages, video meetings, a social feed and teammate matching
+  - Multi-tenant, role-based access, PWA and an [Android
+  app](https://play.google.com/store/apps/details?id=com.syntaxbreakers.app)
 
-## Pinned Projects:
--  **[SyntaxBreakers Platform](https://github.com/MessiSensei/SyntaxBreakers)**: *(private for now )*
+  `FastAPI` · `PostgreSQL` · `React` · `Vite` · `Tailwind` · `WebSockets` · `WebRTC` · `Docker`
+
+  ## 🔬 Research interests
+
+  - Serious games and learning with VR/XR
+  - Driver behaviour in VR driving simulators (my PhD topic)
+  - Brain-computer interfaces in interactive systems
+  - Generative AI in games and education
+
+  ## 📚 What I teach
+
+  C++ and data structures · game engine architecture · 3D graphics with OpenGL · Unreal Engine 5 · Python for AI
+
+  ## 🤝 Open to collaborate on
+
+  - XR and serious-game research projects
+  - Real-time AI, NLP and speech in interactive applications
+  - Robotics and simulation in Unity and Unreal
+  - Education technology that teachers actually want to use
+
+  ## 📫 Get in touch
+
+  - 🌐 [meisamtaheri.com](https://meisamtaheri.com)
+  - ✉️  contact@syntaxbreakers.com
+
+  ---
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MessiSensei&show_icons=true&hide_border=tru
+  e&theme=transparent)
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MessiSensei&layout=compact&hide
+  _border=true&theme=transparent)
 
