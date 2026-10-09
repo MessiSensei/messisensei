@@ -8,7 +8,10 @@
 
 <p align="center">
   <a href="https://www.syntaxbreakers.com/"><img src="https://img.shields.io/badge/Website-syntaxbreakers.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:contact@syntaxbreakers.com"><img src="https://img.shields.io/badge/Email-contact%40syntaxbreakers.com-203a43?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kokorochat.com/"><img src="https://img.shields.io/badge/KokoroChat-kokorochat.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=OKw0fpIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <br />
+  <a href="mailto:syntaxbreakers@gmail.com"><img src="https://img.shields.io/badge/Email-syntaxbreakers%40gmail.com-203a43?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.syntaxbreakers.app"><img src="https://img.shields.io/badge/Google_Play-SyntaxBreakers-0f2027?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </p>
 
@@ -22,10 +25,11 @@ class Meisam:
     phd        = "Driver behaviour in VR driving simulators"
     teaches    = ["C++ & data structures", "game engine architecture",
                   "3D graphics with OpenGL", "Unreal Engine 5", "Python for AI"]
-    building   = "SyntaxBreakers"
+    building   = ["SyntaxBreakers", "KokoroChat"]
+    research   = ["VR/XR", "serious games", "BCI", "generative AI"]
 
     def philosophy(self):
-        return "Build the tools your students and colleagues actually need."
+        return "Research it. Teach it. Ship it."
 ```
 
 ## What I'm building
@@ -52,7 +56,13 @@ A university platform for courses, attendance, assessment and campus community, 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+### [KokoroChat](https://kokorochat.com/)
+
+A free video chat app that matches people for real conversations. Choose to be a talker, a listener, or both. Safe, consent-based, and designed for meaningful human connection and social wellness.
+
 ## Research and teaching
+
+Selected publications and citations are on my [Google Scholar profile](https://scholar.google.com/citations?user=OKw0fpIAAAAJ&hl=en).
 
 <table>
 <tr>
@@ -93,7 +103,7 @@ A university platform for courses, attendance, assessment and campus community, 
 - **Robotics and simulation** in Unity and Unreal
 - **Education technology** that teachers actually want to use
 
-If any of these overlap with what you're working on, reach out at **contact@syntaxbreakers.com**.
+If any of these overlap with what you're working on, reach out at **[syntaxbreakers@gmail.com](mailto:syntaxbreakers@gmail.com)**.
 
 ---
 
