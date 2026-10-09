@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Meisam%20Taheri&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Associate%20Professor%20%7C%20XR%20%2B%20AI%20%7C%20Norway&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Meisam&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Associate%20Professor%20%7C%20XR%20%2B%20AI&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
   <a href="https://kokorochat.com/"><img src="https://img.shields.io/badge/KokoroChat-kokorochat.com-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=OKw0fpIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <br />
-  <a href="mailto:syntaxbreakers@gmail.com"><img src="https://img.shields.io/badge/Email-syntaxbreakers%40gmail.com-203a43?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.syntaxbreakers.app"><img src="https://img.shields.io/badge/Google_Play-SyntaxBreakers-0f2027?style=for-the-badge&logo=googleplay&logoColor=white" /></a>
 </p>
 
@@ -20,9 +19,6 @@
 ```python
 class Meisam:
     role       = "Associate Professor"
-    location   = "Norway"
-    group      = "XRai - Extended Reality and Artificial Intelligence"
-    phd        = "Driver behaviour in VR driving simulators"
     teaches    = ["C++ & data structures", "game engine architecture",
                   "3D graphics with OpenGL", "Unreal Engine 5", "Python for AI"]
     building   = ["SyntaxBreakers", "KokoroChat"]
@@ -103,7 +99,7 @@ Selected publications and citations are on my [Google Scholar profile](https://s
 - **Robotics and simulation** in Unity and Unreal
 - **Education technology** that teachers actually want to use
 
-If any of these overlap with what you're working on, reach out at **[syntaxbreakers@gmail.com](mailto:syntaxbreakers@gmail.com)**.
+If any of these overlap with what you're working on, reach out through [syntaxbreakers.com](https://www.syntaxbreakers.com/).
 
 ---
 
